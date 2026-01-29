@@ -11,6 +11,13 @@
         "defaultValue": "hello",
         "enabled": true,
         "scope": "Deployment"
+      },
+      {
+        "id": "EoHVinzdAGgOAFIiCqhbI",
+        "name": "hello2",
+        "type": "string",
+        "defaultValue": "hello2",
+        "enabled": true
       }
     ],
     "gitEnabled": true
