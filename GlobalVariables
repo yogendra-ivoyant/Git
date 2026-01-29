@@ -1,0 +1,18 @@
+{
+  "EBwHdNDOliqCeQAjBSNBe": {
+    "id": "EBwHdNDOliqCeQAjBSNBe",
+    "appId": "cmKdlgJtstHMOWZGXCMYf",
+    "name": "Engage",
+    "variables": [
+      {
+        "id": "unrrrLBmbCIQcDMXiXraa",
+        "name": "hello",
+        "type": "string",
+        "defaultValue": "hello",
+        "enabled": true,
+        "scope": "Deployment"
+      }
+    ],
+    "gitEnabled": true
+  }
+}
