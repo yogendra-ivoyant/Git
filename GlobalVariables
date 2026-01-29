@@ -11,6 +11,47 @@
         "defaultValue": "hello",
         "enabled": true,
         "scope": "Deployment"
+      },
+      {
+        "id": "EoHVinzdAGgOAFIiCqhbI",
+        "name": "hello2",
+        "type": "string",
+        "defaultValue": "hello2",
+        "enabled": true
+      }
+    ],
+    "gitEnabled": true
+  },
+  "WZplpBnROxuPqwWCQVwVN": {
+    "id": "WZplpBnROxuPqwWCQVwVN",
+    "appId": "cmKdlgJtstHMOWZGXCMYf",
+    "name": "hello",
+    "variables": [
+      {
+        "id": "MSpbrkEHJyVDjkoMRVaHX",
+        "name": "hello",
+        "type": "string",
+        "defaultValue": "hello",
+        "enabled": true
+      }
+    ],
+    "enabled": true,
+    "gitEnabled": true
+  },
+  "HhkxwkZYXerZuWcsLlTxa": {
+    "id": "HhkxwkZYXerZuWcsLlTxa",
+    "appId": "cmKdlgJtstHMOWZGXCMYf",
+    "name": "hello2",
+    "variables": [
+      {
+        "id": "wqACprTxUUAQBjnrRMnVN",
+        "name": "hello2",
+        "type": "string",
+        "defaultValue": "hello2",
+        "enabled": true
+      }
+    ],
+    "enabled": true,
       }
     ],
     "gitEnabled": true
