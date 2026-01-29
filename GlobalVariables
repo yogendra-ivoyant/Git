@@ -1,0 +1,18 @@
+{
+  "CQEiZFZvGxHVyzYvORBvB": {
+    "id": "CQEiZFZvGxHVyzYvORBvB",
+    "appId": "cmKdlgJtstHMOWZGXCMYf",
+    "name": "Engage",
+    "variables": [
+      {
+        "id": "ybWzGXexXVwtRpUFcnOqh",
+        "name": "hello",
+        "type": "string",
+        "defaultValue": "hello",
+        "enabled": true,
+        "scope": "Deployment"
+      }
+    ],
+    "gitEnabled": true
+  }
+}
