@@ -14,5 +14,21 @@
       }
     ],
     "gitEnabled": true
+  },
+  "dioODBiNvXBbPRecFgBiU": {
+    "id": "dioODBiNvXBbPRecFgBiU",
+    "appId": "cmKdlgJtstHMOWZGXCMYf",
+    "name": "hello3",
+    "variables": [
+      {
+        "id": "MpYVkjyLnnNCkerptlvIO",
+        "name": "hello3",
+        "type": "string",
+        "defaultValue": "hello3",
+        "enabled": true
+      }
+    ],
+    "enabled": true,
+    "gitEnabled": true
   }
 }
